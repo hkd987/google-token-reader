@@ -1,0 +1,18 @@
+{
+  "name": "google-token-reader",
+  "version": "1.0.0",
+  "description": "Small helper class to read google id tokens on the server side of your node app.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "standard && node ./src/index.js"
+  },
+  "author": "Lundin Matthews <lundinmatthews@me.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "google-auth-library": "^2.0.0"
+  }
+}
