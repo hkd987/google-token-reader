@@ -1,6 +1,6 @@
 # google token reader
 
-Is a small helper class to help with process google id tokens from your frontend.
+Is a small helper class to process google id tokens from your frontend.
 
 
 ```javascript
