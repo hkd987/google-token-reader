@@ -34,4 +34,4 @@ Please note that if the token from the front end is not valid it is possible for
 You should always check that the value to ensure it is not null before doing anything else.
 
 
-(More Info on the topic here)[https://developers.google.com/identity/sign-in/web/backend-auth]
+[More Info on the topic here](https://developers.google.com/identity/sign-in/web/backend-auth)
